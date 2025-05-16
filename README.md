@@ -23,7 +23,7 @@ A smart and scalable waste detection system for campus environments using YOLOv1
   Flask RESTful endpoints to fetch processed results and serve image data to clients (e.g., mobile or monitoring dashboard).
 
 ### 🌐 Real-Time Monitoring Dashboard
-- Built using **Node.js** to fetch and display the latest processed results from MongoDB on a dynamic HTML interface.
+- Built using **Node.js** to fetch and display the latest processed results from MongoDB on a dynamic React interface.
 
 ---
 
